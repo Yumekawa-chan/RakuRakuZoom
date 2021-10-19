@@ -131,7 +131,7 @@ def exit_zoom(): #zoomから退出
 ### 以下はレイアウト ###
 root = tk.Tk()
 root.title('楽々Zoom')
-iconfile = 'C:\\Users\\rukum\\work\\raku.ico'
+iconfile = 'raku.ico'
 root.iconbitmap(default=iconfile)
 root.geometry("600x300")
 
